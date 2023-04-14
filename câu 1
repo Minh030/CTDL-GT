@@ -28,6 +28,7 @@ int main() {
     if (result == -1) {
         printf("Khong tim thay gia tri %d trong mang.\n", x);  
         } else {
-        printf("Gia tri %d duoc tim thay tai vi tri %d trong mang.\n", x, result);   }
+        printf("Gia tri %d duoc tim thay tai vi tri %d trong mang.\n", x, result);   
+        }
 return 0; 
 }
