@@ -16,7 +16,7 @@ int binarySearch(int arr[], int left, int right, int x) {
         else {
             left = mid + 1;     
           }   
-          }
+       }
     // Nếu không tìm thấy giá trị cần tìm
     return -1;
     }
